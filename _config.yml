@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Brendon Yenson"
   avatar : "/assets/images/brendon.jpg"
-  bio    : "Principle Software Engineer @ CSIRO's Data61."
+  bio    : "Principal Software Engineer @ CSIRO's Data61."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
