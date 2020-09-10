@@ -3,6 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I love making useful things.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm currently working at [CSIRO's Data61][data61], working in the Privacy Enhancing Systems group. 
+Previously, I worked on image processing solutions for the now-defunct 
+[Canon Information Systems Research Australia (CISRA)][cisra].
+
+I have experience in C/C<sup>++</sup>, Scala, Python, JavaScript (React) and interest in Elm and Rust.
+I am fluent in Object Oriented programming and increasingly, functional programming techniques.
+
+Lastly, I love keyboards. [Mechanical Keyboards][mk] - especially [ergonomic ones][ergo].
+
+[data61]: https://data61.csiro.au
+[cisra]: https://www.canon.com.au/about-canon/news-and-press-releases/notice-regarding-the-closure-of-canon-subsidiary-cisra
+[mk]: https://reddit.com/r/mechanicalkeyboards
+[ergo]: https://old.reddit.com/r/ErgoMechKeyboards/
