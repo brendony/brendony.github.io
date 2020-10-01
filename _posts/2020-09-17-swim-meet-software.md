@@ -78,7 +78,7 @@ My progress was very slow, though, due to unfamiliarity with my entire tech stac
 I have settled on [Anvil](https://anvil.works) as my platform.
 
 This post is already too long, so I'll list some reasons for my choice:
-1. It's Python, all the way through - front-end and back-end. I know Python. Python is great, especially for speed of development.
+1. It's Python, all the way through - front-end and back-end. I know Python. Python is especially good for speed of development.
 2. It has drag-and-drop UI construction.
 3. It has database support built-in, including a default local database.
 
