@@ -1,9 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+comments: false
 ---
 
-I enjoy making useful things.
+I enjoy making useful things, with a tendency towards software solutions.
 
 I'm currently working at [CSIRO's Data61][data61], working in the Privacy Enhancing Systems group. 
 Previously, I worked on image processing solutions for the now-defunct 
@@ -11,6 +12,8 @@ Previously, I worked on image processing solutions for the now-defunct
 
 I have experience in C/C<sup>++</sup>, Scala, Python, JavaScript (React) and interest in Elm and Rust.
 I am fluent in Object Oriented programming and increasingly, functional programming techniques.
+These days the normal software disciplines (CI/CD/Test driven development) have obligatory
+DevOps disciplines (Kubernetes, Docker etc) thrown in.
 
 Lastly, I love keyboards. [Mechanical Keyboards][mk] - especially [ergonomic ones][ergo].
 
