@@ -10,9 +10,7 @@ tags:
   - anvil.works
 ---
 
-## TL;DR
-
-I built a WebApp in [Anvil](https://anvil.works). It's a full-stack development solution entirely in Python, and it's perfect for hobby projects (and anything that depends on development velocity).
+*TL;DR* &mdash; I built a WebApp in [Anvil](https://anvil.works). It's a full-stack development solution entirely in Python, and it's perfect for hobby projects (and anything that depends on development velocity).
 
 # Just keep swimming
 
