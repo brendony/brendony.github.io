@@ -12,9 +12,9 @@ tags:
   - hobbies
 ---
 
-I've certainly found myself with nowhere to go in 2020! To keep the four walls
-from closing in, I've taken to serial hobbying. Where possible, I try to keep
-my hobbies creative, if only so I have something to show for it at the end. 
+I think it's reasonable to say that a lot of us have found ourselves with nowhere to go in 2020! 
+To keep the four walls from closing in, I've taken to serial hobbying. Where possible, I try to keep
+my hobbies creative, so that I have something to show for it at the end. 
 [^shopping]
 
 I was glad to ~~find~~ make time to complete a little hardware job that I'd had 

@@ -10,11 +10,11 @@ tags:
   - anvil.works
 ---
 
-*TL;DR* &mdash; I built a WebApp in [Anvil](https://anvil.works). It's a full-stack development solution entirely in Python, and it's perfect for hobby projects (and anything that depends on development velocity).
+*TL;DR* &mdash; I built a WebApp in [Anvil](https://anvil.works). Anvil a full-stack development solution that lets you code your app entirely in Python, and it's perfect for hobby projects (and anything that depends on development velocity).
 
 # Just keep swimming
 
-Sometimes the best motivation for a project is to just scratch an itch. In this case, I'm a member of an amateur swimming club that meets weekly in summer (pandemic permitting!). The attraction of the club, (aside from the very welcoming atmosphere and lovely people) is that it holds time-handicapped races, permitting people of all ages and abilities to swim against each other and have interesting contests.
+Sometimes the best motivation for taking on a project is to just scratch an itch. In this case, I'm a member of an amateur swimming club that meets weekly in summer (pandemic permitting!). The attraction of the club, (aside from the very welcoming atmosphere and lovely people) is that it holds time-handicapped races, permitting people of all ages and abilities to swim against each other and have interesting contests.
 
 ## Nomenclature
 
@@ -32,7 +32,7 @@ Sometimes the best motivation for a project is to just scratch an itch. In this 
 Up until now, our club has used a highly customised and macro-laden Excel spreadsheet to prepare for a swim meet and store results. Poolside organisation is paper-based due to a combination of some tech-shy club officials, and the possibility of water damage to mobile devices on the pool deck.
 
 With these constraints, the spreadsheet provides these functions:
-1. Generate swim event sheets for printing. These sheets are so that, on arrival, a swimmer can register themself to swim the event. Each sheet is pre-populated with the list of people who have swum the event previously, and their handicaps. The spreadsheet sorts people by their handicap, so that the swim heats will have closely matched swimmers. Event sheets have space for handwritten results and other annotations.
+1. Generate swim event sheets for printing. These sheets are so that, on arrival, a swimmer can register themself to swim the event. Each sheet is pre-populated with the list of people who have swum the event previously, and their handicaps. The spreadsheet sorts people by their handicap, so that the swim heats will have closely matched swimmers. Event sheets have space for handwritten results, new swimmers, and other annotations.
 2. After the meet, we enter results into the spreadsheet from the event sheet.
 3. It provides tabular results for publishing online.
 4. It calculates new handicaps from the results.
@@ -84,4 +84,4 @@ I'll go into Anvil in more detail in follow-up posts, but suffice to say that I 
 
 As an example, I was able to add user accounts and login to my App in less than an afternoon. It's functionality that I've coded in my professional capacity, and this time, it was so easy it felt like I was cheating.
 
-Anvil. It's great. Check it out.
+Anvil. I think it's great. I encourage you to check it out.
