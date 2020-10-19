@@ -87,9 +87,13 @@ Use the *Meet Events* table to add events to the selected meet. In general, most
 
 ### [People](https://just-keep-swimming.anvil.app/#people)
 
+![people](/assets/images/jks-user-guide/people.png)
+
 The *People* table shows club members listed in alphabetical order by surname. You can Add, Edit and Remove people from the system (although I would strongly advise against removing people from the system).  Future work on the software might include keeping track of currently active people, or even manage their registration fees, and possibly even checking in before a meet.
 
 ### [Program](https://just-keep-swimming.anvil.app/#program)
+
+![program](/assets/images/jks-user-guide/program.png)
 
 Our swim club is paper-based on the pool deck:
 1. Electronic devices and pool water don't mix, and
