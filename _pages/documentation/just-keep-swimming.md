@@ -111,3 +111,15 @@ Each event will have people listed in the table. People are shown by default if 
 The swimmers are sorted by their *nominal handicap*, so that swimmers of similar ability are likely to end up in heats together. Currently, the *nominal handicap* for a swimmer is the quickest time from their previous 5 results in that event, including results up to a year old.
 
 When you are happy with the program for each event, click the *Download PDF* button to obtain a printable version of the programs.
+
+### [Results](https://just-keep-swimming.anvil.app/#results)
+
+![results](/assets/images/jks-user-guide/results.png)
+
+*Just keep swimming* stores results from all meets and events in one gigantic database table. Loading all of these results would be slow and not very useful. To avoid this, the Results page applies a filter to the results, as specified by the drop-downs at the top of the page. Each drop-down adds an AND clause to the filter - an example query might be: `Show me results from Week 3 AND only show results for Brendon.`
+
+The results page is for entering and reviewing swim times. When this page loads initially, no results will be visible. Once you start selecting values from the *Limit results...* drop-downs, results matching those selections load into the bottom table.
+
+To enter new results, a Meet must be selected. New results can be entered in the top row. The *adjusted time* value is calculated from the *Race handicap* and the *Time** value. On clicking the '+' button, the new result will be added to the table.
+
+Finally, to print tabulated results for a selected meet, press the *Print Meet* button. Note that this button is enabled only when a meet is selected. The tabulated values are in a PDF document downloaded by your browser.
