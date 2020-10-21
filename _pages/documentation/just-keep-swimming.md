@@ -16,6 +16,8 @@ tags:
   
 comments: false
 
+layout: null
+
 ---
 
 ## Glossary
