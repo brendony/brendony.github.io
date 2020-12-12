@@ -95,8 +95,6 @@ The *People* table shows club members listed in alphabetical order by surname. Y
 
 ### [Program](https://just-keep-swimming.anvil.app/#program)
 
-![program](/assets/images/jks-user-guide/program.png)
-
 Our swim club is paper-based on the pool deck:
 1. Electronic devices and pool water don't mix, and
 2. Screens can be very hard to read in sunshine.
@@ -110,9 +108,29 @@ Selecting a meet from the drop-down displays all events in the chosen meet.
 
 Each event will have people listed in the table. People are shown by default if they have swum in that event in the year preceding the meet. It is possible to add or remove people from the printed program by selecting their name from the "Add or remove:" drop-down immediately below the event's program.
 
-The swimmers are sorted by their *nominal handicap*, so that swimmers of similar ability are likely to end up in heats together. Currently, the *nominal handicap* for a swimmer is the quickest time from their previous 5 results in that event, including results up to a year old.
+The swimmers are sorted by their *nominal handicap*, so that swimmers of similar ability are likely to end up in heats together. Currently, the *nominal handicap* for a swimmer is the quickest time from their previous results in that event, including results up to a year old.
 
-When you are happy with the program for each event, click the *Download PDF* button to obtain a printable version of the programs.
+#### *Program* - Handicapper's view
+
+The role of the Handicapper is to set up heats so that the swimmers finish the race at almost the same time, making for more exciting experiences for swimmers. The *Program* page shows a view designed to help the Handicapper set handicaps.
+
+![program](/assets/images/jks-user-guide/screenprogram.png)
+
+Each swimmer is shown with a suggested *nominal handicap* calculated as the best time for this event in the last year, rounded to the nearest whole second. The *nominal handicap* value is editable by the handicapper on this screen.
+
+Additional information (visible only on this screen) is provided in columns to the right of the *nominal handicap*. They are:
+* *Personal Best* - the best recorded time for this swimmer, ever,
+* *Season Best* - the best recorded time for this swimmer in this season,
+* *Season Variance* - mathematical variance over the current season, and 
+* *Season Average* - average time for this season.
+
+When the Handicapper is happy with the program for each event, click the *Download PDF* button to obtain a printable version of the programs.
+
+#### *Program* - Printed view
+
+![printedprogram](/assets/images/jks-user-guide/printprogram.png)
+
+The printed program is designed for the pool deck. It shows the swimmer's name and handicap (in a column headed *Expected Time*, nomenclature that may change in the future). The table has columns for results entry.
 
 ### [Results](https://just-keep-swimming.anvil.app/#results)
 
@@ -125,3 +143,17 @@ The results page is for entering and reviewing swim times. When this page loads 
 To enter new results, a Meet must be selected. New results can be entered in the top row. The *adjusted time* value is calculated from the *Race handicap* and the *Time** value. On clicking the '+' button, the new result will be added to the table.
 
 Finally, to print tabulated results for a selected meet, press the *Print Meet* button. Note that this button is enabled only when a meet is selected. The tabulated values are in a PDF document downloaded by your browser.
+
+## Release history
+
+| Release | What |
+|-------|----------------------------------------|
+| 0.5.8 | Handicaps are editable by the handicapper |
+| 0.5.9 | Bugfix for Issue 13 (programs now show meet correctly |
+| 0.6.0 | Show stats in the programs (variance, average etc) |
+| 0.6.1 | As you enter results, the table will show them reversed so you can see what you just typed|
+| 0.6.2 | Published results have swimmers initials only for privacy |
+| 0.6.3 | Add 120m as a race distance (needed for medley) |
+| 0.6.4 | Fix PB syntax |
+| 0.6.5 | Quicker response on saving result (was reloding all results, now just loading new result and adding it to the table) |
+| 0.6.6 | Added *+/-* column to the results entry, to help pick up errors in data entry |
