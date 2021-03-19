@@ -8,11 +8,13 @@ tags:
   - minikube
   - traefik
   - devops
+  - ingress
 ---
 
 # Minikube + Traefik: How to
 
-I have a target system with a pre-configured [Traefik](https://traefik.io) ingress controller.
+I have a target kubernetes system with a pre-configured [Traefik](https://traefik.io) 
+ingress controller.
 I would like to do my development locally, and that means setting up my laptop to have much 
 the same components. I already have
 [Minikube](https://minikube.io) installed, so I wanted to install Traefik, to make things
