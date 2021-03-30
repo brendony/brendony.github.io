@@ -37,8 +37,9 @@ The usual suspects:
 * Helm
 * kubectl
 
-Nice to have:
-* k9s       (because who wants to type `kubectl` commands repetitively?)
+Nice to have (because who wants to type `kubectl` commands repetitively?):
+* [k9s](https://k9scli.io), and/or
+* [Lens](https://k8slens.dev)
 
 ### Start and configure minikube
 ```shell
