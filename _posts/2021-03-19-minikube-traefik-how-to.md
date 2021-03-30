@@ -43,9 +43,9 @@ Nice to have:
 ### Start and configure minikube
 ```shell
 minikube start
-minikube addons enable metallb  #  A bare-metal load balancer
-minikube ip                     #  Take note of this address. In my case I got 192.168.64.12
-minikube addons config metallb  #  I set the address range to 192.168.64.100 - 192.168.64.200 
+minikube addons enable metallb      #  A bare-metal load balancer
+minikube ip                         #  Take note of this address. In my case I got 192.168.64.12
+minikube addons configure metallb   #  I set the address range to 192.168.64.100 - 192.168.64.200 
 ```
 
 Check that the resulting config looks correct:
