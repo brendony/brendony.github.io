@@ -6,8 +6,9 @@ comments: false
 
 I enjoy making useful things, with a tendency towards software solutions.
 
-I'm currently working at [CSIRO's Data61][data61], working in the Privacy Enhancing Systems group. 
-Previously, I worked on image processing solutions for the now-defunct 
+I'm currently working with the [REA Group], working in the Customer Product & Experience group. 
+Previously, I worked with [data61] as a DevOps engineer working on Privacy Preserving technologies,
+and before that, on image processing solutions for the now-defunct 
 [Canon Information Systems Research Australia (CISRA)][cisra].
 
 I have experience in C/C<sup>++</sup>, Scala, Python, JavaScript (React) and interest in Elm and Rust.
@@ -21,6 +22,7 @@ Lastly, I love keyboards. [Mechanical Keyboards][mk] - especially [ergonomic one
 
 Photo by [Dans Designs][dan]. 
 
+[REA Group]: https://www.rea-group.com/
 [data61]: https://data61.csiro.au
 [cisra]: https://www.canon.com.au/about-canon/news-and-press-releases/notice-regarding-the-closure-of-canon-subsidiary-cisra
 [mk]: https://reddit.com/r/mechanicalkeyboards
